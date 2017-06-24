@@ -1,0 +1,21 @@
+module.exports = [
+    "if",
+    "then",
+    "elif",
+    "else",
+    "begin",
+    "end",
+    "for",
+    "in",
+    "of",
+    "while",
+    "do",
+    "def",
+    "class",
+    "let",
+    "var",
+    "from",
+    "true",
+    "false",
+    "ret"
+];
